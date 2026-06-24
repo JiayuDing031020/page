@@ -1,6 +1,6 @@
 # InkMind 公司主页
 
-基于 Next.js 15 构建的 InkMind Research 动态公司主页，设计参考 [字节跳动 Seed 官网](https://seed.bytedance.com/zh/)。
+基于 Next.js 15 构建的 InkMind Research 动态公司主页。
 
 ## 功能特性
 
